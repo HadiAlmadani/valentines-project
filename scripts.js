@@ -1,9 +1,9 @@
 let yesSize = 20;
 let noClicks = 0;
 let messages = [
-    "Please think again 😢", "Are you sure? 🥺", "But I really like you! 💕", "Don't break my heart 💔",
-    "I'll be really sad 😭", "You know you want to! 😉", "Pretty please? 🥰", "I made this just for you! ❤️",
-    "Last chance! 😖", "Okay... now you HAVE to say yes! 😆"
+    "Please think again bubble😢", "Are you sure? 🥺", "But I really like you! 💕", "Don't break my heart 💔",
+    "I'll be really sad potato😭", "You know you want to! 😉", "Pretty please? 🥰", "I made this just for you! ❤️",
+    "Last chance! 🥹😖", "Okay... now you HAVE to say yes goofus! 😈😈
 ];
 let sadGifs = [
     "https://media.giphy.com/media/d2lcHJTG5Tschttps://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1NHR4ZTNjNW5hZnJhM2MxYTI3d2F0YTdkZDFsOXF0eDA1dHU2ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lTlEowSJv98r7O/giphy.gifg/giphy.gif", 
